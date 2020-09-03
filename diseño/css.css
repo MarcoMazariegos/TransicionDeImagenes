@@ -19,6 +19,30 @@
   background-color: red;
   margin-top: 10px;
   margin: auto;
+  display: block;
+  flex-direction: row;
+}
+.BotonAtras{
+  float: left;
+  margin-left: 15px;
+  width: 75px;
+  height: 50px;
+  background-color: yellow;
+  margin-top: 25px;
+}
+.BotonAtras img{
+  width: 35px;
+}
+.BotonDelante{
+  margin-right: 15px;
+  margin-top: 25px;
+  width: 75px;
+  height: 50px;
+  background-color: yellow;
+  float:right;
+}
+.BotonDelante img{
+  width: 35px;
 }
 .ContenedorImagenes{
   width: 90%;
