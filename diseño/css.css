@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: Arial;
+}
+.Contenedor{
+  width: 600px;
+  height: 460px;
+  background-color: Skyblue;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+}
+.ContenedorBotones{
+  width: 90%;
+  height: 100px;
+  background-color: red;
+  margin-top: 10px;
+  margin: auto;
+}
+.ContenedorImagenes{
+  width: 90%;
+  height: 200px;
+  background-color: blue;
+  margin: auto;
+  margin-top: 10px;
+}
+.ContenedorTexto{
+  width: 90%;
+  height: 100px;
+  background-color: green;
+  margin:auto;
+  margin-top: 10px;
+}
