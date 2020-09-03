@@ -1,0 +1,19 @@
+[33mcommit 19f383c3805d7f55c5b2f227152773965dc861ea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mRamaImagenes[m[33m)[m
+Author: Marco Andree Mazariegos <66434988+MarcoMazariegos@users.noreply.github.com>
+Date:   Thu Sep 3 13:24:56 2020 -0600
+
+    aSe agregó una carpeta llamada imagenes y se agregaron los botones y se posicionaron para que sea funcional la transicion
+
+[33mcommit 0468ab2730430906114fad36b320abe4fba18153[m
+Author: Marco Andree Mazariegos <66434988+MarcoMazariegos@users.noreply.github.com>
+Date:   Thu Sep 3 10:53:05 2020 -0600
+
+    se han cargado la base para la transición.
+    
+    En este primer cambio se ha agregado el css y el index base para que se cree la transición de imágenes.
+
+[33mcommit b3aadc43a8f600165dc763d3942e17ed9fae619f[m
+Author: Marco Andree Mazariegos <66434988+MarcoMazariegos@users.noreply.github.com>
+Date:   Thu Sep 3 10:27:54 2020 -0600
+
+    Initial commit

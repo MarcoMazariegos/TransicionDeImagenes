@@ -13,6 +13,7 @@
   display: flex;
   flex-direction: column;
 }
+/**CONTENEDOR DE BOTONES**/
 .ContenedorBotones{
   width: 90%;
   height: 100px;
@@ -44,6 +45,7 @@
 .BotonDelante img{
   width: 35px;
 }
+/**********CONTENEDOR DE IMAGENES***********/
 .ContenedorImagenes{
   width: 90%;
   height: 200px;
@@ -51,6 +53,29 @@
   margin: auto;
   margin-top: 10px;
 }
+.mostrarImg{
+  width: 350px;
+  height: auto;
+  margin: auto;
+}
+.desarrollo{
+  width: 100%;
+  margin-top: 8px;
+  display: none;
+}
+.componentes{
+  width: 80%;
+  margin-left: 35px;
+  margin-top: 7px;
+  display: none;
+}
+.OS{
+  width: 100%;
+  margin-top: 35px;
+  display: none;
+}
+
+/***********CONTENEDOR DE TEXTO********************/
 .ContenedorTexto{
   width: 90%;
   height: 100px;
