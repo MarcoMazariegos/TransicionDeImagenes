@@ -83,3 +83,30 @@
   margin:auto;
   margin-top: 10px;
 }
+.mostrartxt{
+  width: 89%;
+  height: 97px;
+  margin-left: 5px;
+}
+.desarrollo_t{
+  text-align: justify;
+  font-size: 14px;
+  font-family: "Rationale", sans-serif;
+  display: none;
+}
+.componentes_t{
+  text-align: justify;
+  font-size: 14px;
+  font-family: "Rationale", sans-serif;
+  display: none;
+
+}
+.OS_t{
+  text
+  text-align: justify;
+  font-size: 14px;
+  font-family: "Rationale", sans-serif;
+  display: none;
+
+
+}
